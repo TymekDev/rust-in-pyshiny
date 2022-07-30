@@ -12,3 +12,7 @@ shiny run
 ```
 
 If you change Rust code, then you have to run `maturin develop` again.
+
+## References
+- [Python Shiny](https://shiny.rstudio.com/py/)
+- [PyO3](https://pyo3.rs/v0.16.4/)
