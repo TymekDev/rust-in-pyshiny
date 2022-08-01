@@ -1,7 +1,10 @@
 # Using Rust Functions in Python Shiny
 
+## Demo
+![](demo.webp)
+
 ## Setup
-Both Python and Rust have to be installed.
+Both Python and Rust have to be installed. Additionally, venv has to be installed for Python.
 
 ```bash
 python -m venv .env
